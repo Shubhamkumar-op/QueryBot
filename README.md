@@ -15,12 +15,12 @@ QueryBot is an intelligent chatbot that allows users to interact with a database
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/querybot.git
+https://github.com/Shubhamkumar-op/QueryBot.git
 ```
 Navigate to the project folder:
 
 ```bash
-cd querybot
+cd QueryBot
 ```
 Install the required dependencies:
 
